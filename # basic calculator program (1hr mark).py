@@ -1,4 +1,6 @@
-# basic calculator program (1hr mark)
+# basic calculator program 
+# NOTE :- this calculator can only do addition, substraction, multiplication, division and finding exponential value.
+# NOTE :- this calculator does not give negative value.
 
 import math
 print("Reminder : this is a basic calc. it can not perform complex calculations")
@@ -47,5 +49,6 @@ else:
 #Note self : before video => does not give negative value 
 
     
+
 
 
